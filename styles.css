@@ -1,0 +1,39 @@
+header {
+    display: block;
+}
+h1 {
+    background-color: #555;
+    color: white;
+    display: block;
+    text-align: center;
+    margin: 0 0 10px 0;
+}
+h2 {
+    margin: 0 10px 0 0;
+    padding: 5px 5px 0 0;
+} 
+h3, h4, h5 {
+   margin: 5px 0 5px 0; 
+   padding: 2px;
+}
+p {
+    margin: 5px 0 5px 0;
+    padding: 0 0 5px 0;
+}
+ul {
+    margin-top: 5px;
+}
+#about-me {
+    /* text-align: center; */
+    background-color: lightblue;
+    display: block;
+    /* clear: right; */
+    margin-bottom: 10px;
+}
+#favorite-things {
+    /* text-align: center; */
+    background-color: lightgreen;
+    display: block;
+    max-width: 50%;
+    min-width: 40%;
+}
